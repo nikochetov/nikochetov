@@ -3,7 +3,7 @@
 
 I'm Nikolay, Frontend developer.
 
-I’ve been working as a Frontend Developer since 2020. Currently working on Dtechs company.
+I’ve been working as a Frontend Developer since 2020. Currently working on T-bank company.
 
 ## Tech stack
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
